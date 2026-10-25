@@ -1,0 +1,9 @@
+# Built on the user's PC by Start.bat
+KeyRemapper.exe
+interception.dll
+
+# Build and editor leftovers
+*.pdb
+*.obj
+*.user
+.vs/
